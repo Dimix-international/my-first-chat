@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-first-chat/static/css/main.afbec150.css",
+    "main.js": "/my-first-chat/static/js/main.385c8add.js",
+    "static/js/787.6f726199.chunk.js": "/my-first-chat/static/js/787.6f726199.chunk.js",
+    "index.html": "/my-first-chat/index.html",
+    "main.afbec150.css.map": "/my-first-chat/static/css/main.afbec150.css.map",
+    "main.385c8add.js.map": "/my-first-chat/static/js/main.385c8add.js.map",
+    "787.6f726199.chunk.js.map": "/my-first-chat/static/js/787.6f726199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afbec150.css",
+    "static/js/main.385c8add.js"
+  ]
+}
